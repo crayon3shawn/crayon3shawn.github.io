@@ -1,12 +1,11 @@
-robotstxt:
-  useragent: "*"
-  disallow:
-    - /js
-    - /css
-    - /fonts
-  allow:
-    - /
-    - /archives
-    - /categories
-    - /about
-  sitemap: /sitemap.xml
+useragent: "*"
+ disallow:
+   - /js
+   - /css
+   - /fonts
+ allow:
+   - /
+   - /archives
+   - /categories
+   - /about
+ sitemap: /sitemap.xml
