@@ -9,30 +9,30 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/</loc>
+    <loc>http://example.com/tags/</loc>
     
-    <lastmod>2020-11-25</lastmod>
+    <lastmod>2020-11-26</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/categories/</loc>
     
-    <lastmod>2020-11-25</lastmod>
+    <lastmod>2020-11-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>http://example.com/about/</loc>
     
-    <lastmod>2020-11-25</lastmod>
+    <lastmod>2020-11-26</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/404</loc>
     
-    <lastmod>2020-11-25</lastmod>
+    <lastmod>2020-11-26</lastmod>
     
   </url>
   
@@ -46,12 +46,19 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E7%99%BB%E5%B1%B1/</loc>
+    <loc>http://example.com/tags/%E7%99%BB%E5%B1%B1-%E5%B1%B1%E9%9B%A3%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://example.com/categories/%E7%99%BB%E5%B1%B1/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
