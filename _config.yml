@@ -6,7 +6,7 @@
 title: 洞靜之間
 subtitle: crayon3shawn's Blog
 description: 發現自己累積了許多東西，決定用寫的方式，把他們整理出來！
-keywords:
+keywords: 
 author: Cheng Che
 language: zh-tw
 timezone: ''
@@ -30,6 +30,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render: google5209b21a778bdde1.html
+sitemap:
+  path: sitemap.xml
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -41,7 +43,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -102,12 +104,6 @@ plugins:
  - hexo-generator-robotstxt
  - hexo-generator-feed
 theme: next-reloaded
-
-#Feed Atom
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
