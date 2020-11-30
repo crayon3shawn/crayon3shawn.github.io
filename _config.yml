@@ -114,7 +114,7 @@ ignore:
 plugins:
  - hexo-generator-robotstxt
  - hexo-generator-feed
-theme: next-reloaded
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
