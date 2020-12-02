@@ -1,10 +1,11 @@
 ---
 title: 從Homebrew學習terminal介面
+date: 2020-12-03 01:24:34
 tags: 
     - Homebrew
     - Terminal
     - Mac 
-categories: 
+categories: 電腦
 ---
 # 什麼是Homebrew
 Homebrew是套件管理軟體
