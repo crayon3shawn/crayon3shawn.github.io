@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>post</title>
+    <url>/post/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>從Homebrew學習terminal介面</title>
-    <url>/%E5%BE%9EHomebrew%E5%AD%B8%E7%BF%92terminal%E4%BB%8B%E9%9D%A2</url>
+    <url>/%E5%BE%9EHomebrew%E5%AD%B8%E7%BF%92terminal%E4%BB%8B%E9%9D%A2/</url>
     <content><![CDATA[<h1>什麼是Homebrew</h1>
 <p>Homebrew是套件管理軟體<br>
 第一次碰homebrew，是在大一的時候<br>
@@ -74,10 +79,5 @@ Homebrew<br>
         <tag>Terminal</tag>
         <tag>Mac</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>post</title>
-    <url>/post</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
