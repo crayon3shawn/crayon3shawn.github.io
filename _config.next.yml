@@ -24,7 +24,7 @@ custom_file_path:
   #sidebar: source/_data/sidebar.njk
   #postMeta: source/_data/post-meta.njk
   #postBodyEnd: source/_data/post-body-end.njk
-  #footer: source/_data/footer.njk
+  footer: source/_data/footer.swig
   #bodyEnd: source/_data/body-end.njk
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
@@ -129,7 +129,7 @@ avatar:
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
-  rotated: true
+  rotated: false
 
 # Posts / Categories / Tags in sidebar.
 site_state: true
@@ -210,10 +210,10 @@ footer:
     color: "#ff0000"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright:
+  copyright: 若要轉載文章，麻煩請保留原作者名稱與原始連結。
 
   # Powered by Hexo & NexT
-  powered: true
+  powered: false
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
@@ -384,7 +384,7 @@ reading_progress:
 
 # Bookmark Support
 bookmark:
-  enable: false
+  enable: true
   # Customize the color of the bookmark.
   color: "#222"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
@@ -775,7 +775,7 @@ note:
   #  - modern    bs-callout new (v2-v3) alert style.
   #  - flat      flat callout style with background, like on Mozilla or StackOverflow.
   #  - disabled  disable all CSS styles import of note tag.
-  style: simple
+  style: flat
   icons: false
   # Offset lighter of background in % for modern and flat styles (modern: -12 | 12; flat: -18 | 6).
   # Offset also applied to label tag variables. This option can work with disabled note tag.
@@ -824,13 +824,13 @@ motion:
 # Progress bar in the top during page loading.
 # For more information: https://github.com/rstacruz/nprogress
 nprogress:
-  enable: false
+  enable: true
   spinner: true
 
 # Canvas ribbon
 # For more information: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: false
+  enable: true
   size: 300 # The width of the ribbon
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
