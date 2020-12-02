@@ -8,7 +8,7 @@ subtitle: crayon3shawn's Blog
 description: 發現自己累積了許多東西，決定用寫的方式，把他們整理出來！
 keywords: 
 author: Cheng Che
-language: zh-Tw
+language: zh-TW
 timezone: ''
 
 # URL
@@ -29,7 +29,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render: README.md
+skip_render: 
 
 robotstxt:
   useragent: "*"
