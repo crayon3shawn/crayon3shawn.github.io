@@ -12,6 +12,7 @@
     "version": "5.2.0"
   },
   "dependencies": {
+    "canvas-nest.js": "^2.0.4",
     "core-js": "3.8.0",
     "gitalk": "^1.7.0",
     "hexo": "^5.0.0",
