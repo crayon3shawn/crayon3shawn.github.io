@@ -245,13 +245,13 @@
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-count">1</span>
         <span class="site-state-item-name">分類</span></a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">標籤</span></a>
       </div>
   </nav>
@@ -379,7 +379,7 @@
 <p>然後安裝Homebrew，下面是官方推薦的安裝方式</p>
 <figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="regexp">/bin/</span>bash -c <span class="string">&quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;</span></span><br></pre></td></tr></table></figure>
 <h1>Homebrew的基本操作指令</h1>
-<p>基本上去看<a target="_blank" rel="noopener" href="https://brew.sh/index_zh-tw">Homebrew的官方網站</a>，指令應該都最詳細啦，或是去看homebrew的github。但還是稍微提一下。</p>
+<p>基本上去看<a href="https://brew.sh/index_zh-tw">Homebrew的官方網站</a>，指令應該都最詳細啦，或是去看homebrew的github。但還是稍微提一下。</p>
 <p>或是可以直接查看指令</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> brew <span class="built_in">help</span></span></span><br></pre></td></tr></table></figure>
 <p>安裝單一軟體</p>
@@ -400,22 +400,22 @@
 <h3 id="brewfile">brewfile</h3>
 <h3 id="dotfile">dotfile</h3>
 <p>建立dotfile &amp;&amp; 建立brewfile<br>
-<a target="_blank" rel="noopener" href="https://blog.spencerwoo.com/2020/07/how-i-manage-my-dotfiles/">https://blog.spencerwoo.com/2020/07/how-i-manage-my-dotfiles/</a><br>
-<a target="_blank" rel="noopener" href="https://github.com/TheLocehiliosan/yadm">https://github.com/TheLocehiliosan/yadm</a><br>
-<a target="_blank" rel="noopener" href="https://yadm.io/docs/getting_started#">https://yadm.io/docs/getting_started#</a><br>
-<a target="_blank" rel="noopener" href="https://github.com/dotfiles/dotfiles.github.com">https://github.com/dotfiles/dotfiles.github.com</a><br>
-<a target="_blank" rel="noopener" href="https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789">https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789</a></p>
+<a href="https://blog.spencerwoo.com/2020/07/how-i-manage-my-dotfiles/">https://blog.spencerwoo.com/2020/07/how-i-manage-my-dotfiles/</a><br>
+<a href="https://github.com/TheLocehiliosan/yadm">https://github.com/TheLocehiliosan/yadm</a><br>
+<a href="https://yadm.io/docs/getting_started#">https://yadm.io/docs/getting_started#</a><br>
+<a href="https://github.com/dotfiles/dotfiles.github.com">https://github.com/dotfiles/dotfiles.github.com</a><br>
+<a href="https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789">https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789</a></p>
 <p>#Getting Started With Dotfiles<br>
-<a target="_blank" rel="noopener" href="https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789">https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789</a></p>
-<p><a target="_blank" rel="noopener" href="https://github.com/zhangchenchen/clean-dotfile/blob/master/README_ZH_CN.md">https://github.com/zhangchenchen/clean-dotfile/blob/master/README_ZH_CN.md</a></p>
+<a href="https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789">https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789</a></p>
+<p><a href="https://github.com/zhangchenchen/clean-dotfile/blob/master/README_ZH_CN.md">https://github.com/zhangchenchen/clean-dotfile/blob/master/README_ZH_CN.md</a></p>
 <h3 id="minconda">minconda</h3>
 <h1>參考資料</h1>
 <p>深入淺出xcode command line tool<br>
-<a target="_blank" rel="noopener" href="https://jamesdouble.github.io/blog/2019/12/19/xcCmdLine-1">https://jamesdouble.github.io/blog/2019/12/19/xcCmdLine-1</a><br>
+<a href="https://jamesdouble.github.io/blog/2019/12/19/xcCmdLine-1">https://jamesdouble.github.io/blog/2019/12/19/xcCmdLine-1</a><br>
 更快速、簡潔、優雅地管理你的 Mac 軟體套件<br>
-<a target="_blank" rel="noopener" href="https://www.onejar99.com/mac-homebrew-homebrew-cask-mac/">https://www.onejar99.com/mac-homebrew-homebrew-cask-mac/</a><br>
+<a href="https://www.onejar99.com/mac-homebrew-homebrew-cask-mac/">https://www.onejar99.com/mac-homebrew-homebrew-cask-mac/</a><br>
 Homebrew<br>
-<a target="_blank" rel="noopener" href="https://brew.sh/index_zh-tw.html">https://brew.sh/index_zh-tw.html</a></p>
+<a href="https://brew.sh/index_zh-tw.html">https://brew.sh/index_zh-tw.html</a></p>
 
     </div>
 
@@ -434,11 +434,11 @@ Homebrew<br>
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/%E5%8A%89%E5%8F%8B%E7%9B%9B%20%E8%A3%9D%E5%82%99%E8%BC%95%E9%87%8F%E5%8C%96%20feat.%E5%B1%B1%E9%9B%A3%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%20%5B%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0%5D" rel="prev" title="劉友盛 裝備輕量化 feat.山難經驗分享 [測試文章]">
-                  <i class="fa fa-chevron-left"></i> 劉友盛 裝備輕量化 feat.山難經驗分享 [測試文章]
-                </a>
             </div>
             <div class="post-nav-item">
+                <a href="/post" rel="next" title="post">
+                  post <i class="fa fa-chevron-right"></i>
+                </a>
             </div>
           </div>
     </footer>

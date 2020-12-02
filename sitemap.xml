@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://crayon3shawn.github.io/%E5%BE%9EHomebrew%E5%AD%B8%E7%BF%92terminal%E4%BB%8B%E9%9D%A2</loc>
+    <loc>https://crayon3shawn.github.io/post</loc>
     
     <lastmod>2020-12-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://crayon3shawn.github.io/%E5%8A%89%E5%8F%8B%E7%9B%9B%20%E8%A3%9D%E5%82%99%E8%BC%95%E9%87%8F%E5%8C%96%20feat.%E5%B1%B1%E9%9B%A3%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%20[%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0]</loc>
+    <loc>https://crayon3shawn.github.io/%E5%BE%9EHomebrew%E5%AD%B8%E7%BF%92terminal%E4%BB%8B%E9%9D%A2</loc>
     
     <lastmod>2020-12-02</lastmod>
     
@@ -73,21 +73,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://crayon3shawn.github.io/tags/%E7%99%BB%E5%B1%B1/</loc>
-    <lastmod>2020-12-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://crayon3shawn.github.io/categories/%E7%99%BB%E5%B1%B1/</loc>
-    <lastmod>2020-12-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://crayon3shawn.github.io/categories/%E9%9B%BB%E8%85%A6/</loc>
