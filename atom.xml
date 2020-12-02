@@ -3,11 +3,11 @@
   <title>洞靜之間</title>
   
   <subtitle>crayon3shawn&#39;s Blog</subtitle>
-  <link href="http://crayon3shawn.github/atom.xml" rel="self"/>
+  <link href="https://crayon3shawn.github.io/atom.xml" rel="self"/>
   
-  <link href="http://crayon3shawn.github/"/>
+  <link href="https://crayon3shawn.github.io/"/>
   <updated>2020-12-02T17:35:17.444Z</updated>
-  <id>http://crayon3shawn.github/</id>
+  <id>https://crayon3shawn.github.io/</id>
   
   <author>
     <name>Cheng Che</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>從Homebrew學習terminal介面</title>
-    <link href="http://crayon3shawn.github/title/"/>
-    <id>http://crayon3shawn.github/title/</id>
+    <link href="https://crayon3shawn.github.io/%E5%BE%9EHomebrew%E5%AD%B8%E7%BF%92terminal%E4%BB%8B%E9%9D%A2"/>
+    <id>https://crayon3shawn.github.io/%E5%BE%9EHomebrew%E5%AD%B8%E7%BF%92terminal%E4%BB%8B%E9%9D%A2</id>
     <published>2020-12-02T17:24:34.000Z</published>
     <updated>2020-12-02T17:35:17.444Z</updated>
     
@@ -38,21 +38,21 @@
     
     
     
-    <category term="電腦" scheme="http://crayon3shawn.github/categories/%E9%9B%BB%E8%85%A6/"/>
+    <category term="電腦" scheme="https://crayon3shawn.github.io/categories/%E9%9B%BB%E8%85%A6/"/>
     
     
-    <category term="Homebrew" scheme="http://crayon3shawn.github/tags/Homebrew/"/>
+    <category term="Homebrew" scheme="https://crayon3shawn.github.io/tags/Homebrew/"/>
     
-    <category term="Terminal" scheme="http://crayon3shawn.github/tags/Terminal/"/>
+    <category term="Terminal" scheme="https://crayon3shawn.github.io/tags/Terminal/"/>
     
-    <category term="Mac" scheme="http://crayon3shawn.github/tags/Mac/"/>
+    <category term="Mac" scheme="https://crayon3shawn.github.io/tags/Mac/"/>
     
   </entry>
   
   <entry>
     <title>劉友盛 裝備輕量化 feat.山難經驗分享 [測試文章]</title>
-    <link href="http://crayon3shawn.github/title/"/>
-    <id>http://crayon3shawn.github/title/</id>
+    <link href="https://crayon3shawn.github.io/%E5%8A%89%E5%8F%8B%E7%9B%9B%20%E8%A3%9D%E5%82%99%E8%BC%95%E9%87%8F%E5%8C%96%20feat.%E5%B1%B1%E9%9B%A3%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%20[%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0]"/>
+    <id>https://crayon3shawn.github.io/%E5%8A%89%E5%8F%8B%E7%9B%9B%20%E8%A3%9D%E5%82%99%E8%BC%95%E9%87%8F%E5%8C%96%20feat.%E5%B1%B1%E9%9B%A3%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB%20[%E6%B8%AC%E8%A9%A6%E6%96%87%E7%AB%A0]</id>
     <published>2020-11-21T22:44:31.934Z</published>
     <updated>2020-12-02T17:25:55.538Z</updated>
     
@@ -71,10 +71,10 @@
     
     
     
-    <category term="登山" scheme="http://crayon3shawn.github/categories/%E7%99%BB%E5%B1%B1/"/>
+    <category term="登山" scheme="https://crayon3shawn.github.io/categories/%E7%99%BB%E5%B1%B1/"/>
     
     
-    <category term="登山" scheme="http://crayon3shawn.github/tags/%E7%99%BB%E5%B1%B1/"/>
+    <category term="登山" scheme="https://crayon3shawn.github.io/tags/%E7%99%BB%E5%B1%B1/"/>
     
   </entry>
   
